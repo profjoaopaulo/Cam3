@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Cam3",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
